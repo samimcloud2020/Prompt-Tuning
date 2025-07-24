@@ -1,5 +1,5 @@
 # Why Prompt Tuning is Needed
-Main Points of Prompt Tuning
+## Main Points of Prompt Tuning
 Prompt tuning is a specialized technique used to adapt pre-trained language models for specific tasks without modifying the entire model. Instead of retraining all the parameters of a large model, prompt tuning optimizes a much smaller set of learnable parameters, called "soft prompts," which are prepended to the input data. This offers several key advantages:
 
 Resource Efficiency: Only a small number of prompt parameters are trained while the core model remains frozen, dramatically reducing computational costs and energy consumption compared to full fine-tuning.
