@@ -14,7 +14,7 @@ Reduced Human Effort: It automates finding the best task-specific prompts, lesse
 
 Competitive Performance: Especially for large models, prompt tuning can reach performance levels comparable to traditional fine-tuning methods.
 
-Example of Prompt Tuning
+## Example of Prompt Tuning
 Consider a large pre-trained language model tasked with sentiment analysis, classifying whether a sentence's sentiment is positive or negative.
 
 Instead of fine-tuning all model parameters, prompt tuning adds a set of learnable soft prompts to the beginning of the input sentence.
